@@ -7,7 +7,6 @@ GPU: HD530
 
 基本完美， 能调节亮度，音量
 
-<<<<<<< HEAD
 ***注意***：X86PlatformPluginInjector.kext 这里只适用于 `i5 6300HQ`, 其他的 CPU 请自行查找相关教程完善
 
 # 将 LE 文件中的 *.kext 复制到 /L/E/ 下
@@ -31,10 +30,6 @@ Kext with invalid signatured (-67030) allowed: <OSKext 0x7fa1b19fb790 [0x7fff8f9
 
 # 参考：
 1. https://www.xsit.top/2018/08/29/9.html
-=======
-参考：
-1. [HP暗影精灵2-I5-6300HQ-10.13.6完美EFI](https://www.xsit.top/2018/08/29/9.html)\
->>>>>>> 0d06b290fa6face0f83b9695d6007e94d6847738
 这个基本完美，但打开备忘录会卡
 2. [clover/笔记本/惠普/惠普光影精灵2+i5-6300HQ+10.13/CLOVER/](https://github.com/sqlsec/clover/tree/master/%E7%AC%94%E8%AE%B0%E6%9C%AC/%E6%83%A0%E6%99%AE/%E6%83%A0%E6%99%AE%E5%85%89%E5%BD%B1%E7%B2%BE%E7%81%B52%2Bi5-6300HQ%2B10.13/CLOVER)\
 这个没有亮度调节
