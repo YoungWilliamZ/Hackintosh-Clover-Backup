@@ -3,7 +3,7 @@
 系统：10.13.6 \
 机型：HP 暗影精灵2 \
 CPU: i5 6300HQ \
-GPU: HD530 \
+GPU: HD530 
 
 基本完美， 能调节亮度，音量
 
@@ -16,7 +16,10 @@ GPU: HD530 \
 ``` bash
 sudo cp -R *.kext /Library/Extensions
 ```
-3. sudo kextcache -i /
+3. 
+``` bash
+sudo kextcache -i /
+```
 
 4. 结果：
 ``` bash
