@@ -1,9 +1,9 @@
 # Hackintosh-Clover-Backup
 
-系统：10.13.6
-机型：HP 暗影精灵2
-CPU: i5 6300HQ
-GPU: HD530
+系统：10.13.6 \
+机型：HP 暗影精灵2 \
+CPU: i5 6300HQ \
+GPU: HD530 \
 
 基本完美， 能调节亮度，音量
 
